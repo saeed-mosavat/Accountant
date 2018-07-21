@@ -1,0 +1,25 @@
+body{
+    background-color: #eee;
+}
+
+
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.avatar-container{
+    position: relative;
+    display: inline-block;
+
+}
+
+.avatar{
+    border: 3px solid #ccc;
+    border-radius: 50%;
+}
+
+.avatar-container{
+    float: right;
+}
